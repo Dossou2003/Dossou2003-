@@ -28,7 +28,7 @@
 ## ⚡️ Quick Glance
 
 - 🔭 I’m currently working on **innovative personal projects** to enhance my skills and expand my knowledge.
-- 🌱 I’m currently diving deeper into **Advanced AI, Cloud Computing, and Full-Stack Development**.
+- 🌱 I’m diving deeper into **Advanced AI, Cloud Computing, and Full-Stack Development**.
 - 💬 Ask me about **Python, Django, FastAPI, Data Science, and Web Development**.
 - 📫 How to reach me: **Check out my social links above!**
 - 😄 Pronouns: **He/Him**
@@ -61,20 +61,6 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-### 🗄️ Databases
-<p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -101,7 +87,7 @@
 ## ⏳ WakaTime Stats
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4b8dfdf58d7e.svg" alt="WakaTime Badge" />
+    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4bafe54c753a.svg" alt="WakaTime Badge" />
 </p>
 
 ---
