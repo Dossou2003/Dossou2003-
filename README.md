@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Armel Dahoui 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B93E&width=435&lines=Welcome+to+my+GitHub+Profile;Python+%7C+Django+%7C+FastAPI+Developer;Passionate+about+AI+%26+Web+Development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B93E&width=435&lines=Welcome+to+my+GitHub+Profile;Python+%7C+Django+%7C+FastAPI+Developer;AI+%7C+Data+Science+%7C+Web+Development" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -15,10 +15,24 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ArmelDahoui&theme=radical&hide_border=true" width="50%">
 </p>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmelDahoui&show_icons=true&theme=radical&hide_border=true" width="50%">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmelDahoui&show_icons=true&theme=radical&hide_border=true&count_private=true" width="50%">
 </p>
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmelDahoui&layout=compact&theme=radical&hide_border=true" width="40%">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmelDahoui&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%">
+</p>
+
+---
+
+## 📊 WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArmelDahoui&theme=radical&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArmelDahoui&theme=radical&no-frame=true&row=1" alt="GitHub Trophies">
 </p>
 
 ---
@@ -35,6 +49,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 📊 Data Science & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,13 +73,6 @@
   <a href="https://www.linkedin.com/in/armel-dahoui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:armel.dahoui@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/ArmelDahoui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArmelDahoui&theme=radical&no-frame=true&row=1" alt="GitHub Trophies">
 </p>
 
 ---
