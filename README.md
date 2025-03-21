@@ -101,6 +101,9 @@
 ## ⏳ WakaTime Stats
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4b..." alt="WakaTime badge">
+    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4b8dfdf58d7e.svg" alt="WakaTime Badge" />
 </p>
 
+---
+
+## 🌟 Projects...
