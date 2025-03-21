@@ -101,27 +101,6 @@
 ## ⏳ WakaTime Stats
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4bafe54c753a.svg?style=for-the-badge" alt="WakaTime Stats">
+    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4b..." alt="WakaTime badge">
 </p>
 
----
-
-## ➕ More GitHub Goodies!
-
-### ⭐ GitHub Followers Badge
-<p align="center">
-    <a href="https://github.com/ArmelDahoui" target="_blank">
-        <img src="https://img.shields.io/github/followers/ArmelDahoui?style=social" alt="GitHub Followers" />
-    </a>
-</p>
-
-### 📌 Pinned Repositories
-<p align="center">
-    Here are some of my pinned repositories:
-</p>
-
-<p align="center">
-    <a href="https://github.com/ArmelDahoui/YOUR_PINNED_REPO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArmelDahoui&repo=YOUR_PINNED_REPO_1&theme=radical" alt="Pinned Repo 1" />
-    </a>
-</p>
