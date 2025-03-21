@@ -76,8 +76,7 @@
 
 ## ⏳ WakaTime Stats
 <p align="center">
-    <img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4bafe54c753a.svg
-" alt="WakaTime Badge" />
+ <a href="https://wakatime.com/@58a2586d-0503-4c1d-b94b-4bafe54c753a"><img src="https://wakatime.com/badge/user/58a2586d-0503-4c1d-b94b-4bafe54c753a.svg" alt="Total time coded since Sep 17 2024" /></a>
 </p>  
 
 
